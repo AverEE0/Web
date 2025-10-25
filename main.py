@@ -4,7 +4,7 @@ import requests
 from aiohttp import web
 
 # === 🔑 ТОЛЬКО ТОКЕН БОТА НУЖЕН ===
-BOT_TOKEN = "7194721151:AAEi4QpC-YKYfNkR10AJyf1bqq0KZO7o6kg"
+BOT_TOKEN = "7503684350:AAGeKkAK1pTuAL_rjYu5ml_TJFw3A4BwPWw"
 TELEGRAM_API = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
 
 logging.basicConfig(level=logging.INFO)
